@@ -1,0 +1,6 @@
+,Pathway,Pathway_name,Step,Product,Metacyc,Author,EC,Enzyme_name,interpro_curated_id,pfam_curated_id,Gene_name,Uniprot_ids,interpro_curated,pfam_curated,Note_integration,Interpro_metacyc_link (automatic?),Pfam_metacyc_link,Interpro_pre,Pfam_pre,interpro_name_pre,Status_pre,Unnamed: 21,notes
+63,14.0,L-glutamate degradation VI (to pyruvate),1.0,Butanoate,PWY-5087,Caspi R,5.4.99.1,glutamate mutase,IPR006396,PF06368,"GlmS, glmE (subunit)",P80077 (glmE),IPR006396,PF06368,,"IPR006396, IPR014714, IPR016176",PF06368,IPR006396/IPR006394,PF06368 / NA,Glutamate mutase epsilon subunit / Glutamate mutase sigma subunit ,,,
+64,14.0,L-glutamate degradation VI (to pyruvate),2.0,Butanoate,PWY-5087,Caspi R,4.3.1.2,3-methylaspartase,IPR006395,"NA (PF07476, PF05034 domain hits)",2 identical subunit,Q05514,IPR006395,"NA (PF07476, PF05034 domain hits)",,"IPR006395, IPR022662, IPR022665, IPR029017, IPR036849","PF05034, PF07476",IPR006395,,Methylaspartate ammonia-lyase ,,,
+65,14.0,L-glutamate degradation VI (to pyruvate),3.0,Butanoate,PWY-5087,Caspi R,4.2.1.34,"citramalate hydrolyase
+",,,"Component I, II",,,,,,,,,,,,
+66,14.0,L-glutamate degradation VI (to pyruvate),4.0,Butanoate,PWY-5087,Caspi R,4.1.3.22(4.1.3.25 for β +2.8.3.11 for α),citramalate lyase,IPR005675,TIGR00977,"α, β, γ subunits",,,,,,,IPR011206+N/A,,Citrate lyase beta subunit-like,,,

@@ -1,0 +1,10 @@
+,Pathway,Pathway_name,Step,Product,Metacyc,Author,EC,Enzyme_name,interpro_curated_id,pfam_curated_id,Gene_name,Uniprot_ids,interpro_curated,pfam_curated,Note_integration,Interpro_metacyc_link (automatic?),Pfam_metacyc_link,Interpro_pre,Pfam_pre,interpro_name_pre,Status_pre,Unnamed: 21,notes
+138,30.0,glycocholate metabolism (bacteria),1.0,7-epicholate,PWY-6518,Fulcher CA,3.5.1.24,choloylglycine hydrolase,PTHR35527,,"bsh, cbh","Q9KK62, P54965",PTHR35527,,,,,non_predicted,,,,,
+139,30.0,glycocholate metabolism (bacteria),2.0,7-epicholate,PWY-6518,Fulcher CA,1.1.1.159,7α-hydroxysteroid dehydrogenase,IPR002347,PF13561 (much bigger),hdhA,Q9S3U5,IPR002347 (much bigger),PF13561 (much bigger),,,,IPR002347,PF00106 ,Short-chain dehydrogenase/reductase SDR,,,
+140,30.0,glycocholate metabolism (bacteria),3.0,7-epicholate,PWY-6518,Fulcher CA,1.1.1.201,7β-hydroxysteroid dehydrogenase,IPR002347,,,A7B4V1,IPR002347( too distant),,,,,IPR002347,PF00106 ,Short-chain dehydrogenase/reductase SDR,,,
+142,30.0,glycocholate metabolism (bacteria),1.0,trihydroxy,PWY-6518,Fulcher CA,3.5.1.24,choloylglycine hydrolase,PTHR35527,,"bsh, cbh","Q9KK62, P54965",PTHR35527,,,,,non_predicted,,,,,
+143,30.0,glycocholate metabolism (bacteria),2.0,trihydroxy,PWY-6518,Fulcher CA,1.1.1.176,12α-hydroxysteroid dehydrogenase,,,,P21215,,,,,,non_predicted,,,,,1 seq
+144,30.0,glycocholate metabolism (bacteria),3.0,trihydroxy,PWY-6518,Fulcher CA,1.1.1.238,12β-hydroxysteroid dehydrogenase,,,,,,,,,,,,,,,
+146,30.0,glycocholate metabolism (bacteria),1.0,isocholate,PWY-6518,Fulcher CA,3.5.1.24,choloylglycine hydrolase,PTHR35527,,"bsh, cbh","Q9KK62, P54965",PTHR35527,,,,,non_predicted,,,,,
+147,30.0,glycocholate metabolism (bacteria),2.0,isocholate,PWY-6518,Fulcher CA,1.1.1.52,3α-hydroxysteroid dehydrogenase,IPR002347,,,C8WMP0,IPR002347( too distant),,,,,IPR002347,PF00106 ,Short-chain dehydrogenase/reductase SDR,,,
+148,30.0,glycocholate metabolism (bacteria),3.0,isocholate,PWY-6518,Fulcher CA,1.1.1.391,NAD-dependent bile acid 3β-dehydrogenase,IPR002347,PF13561 (too distant),,C8WJW0,IPR002347( too distant),PF13561 (too distant),,,,IPR002347,PF00106 ,Short-chain dehydrogenase/reductase SDR,,,

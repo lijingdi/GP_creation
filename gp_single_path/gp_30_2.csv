@@ -1,0 +1,4 @@
+,Pathway,Pathway_name,Step,Product,Metacyc,Author,EC,Enzyme_name,interpro_curated_id,pfam_curated_id,Gene_name,Uniprot_ids,interpro_curated,pfam_curated,Note_integration,Interpro_metacyc_link (automatic?),Pfam_metacyc_link,Interpro_pre,Pfam_pre,interpro_name_pre,Status_pre,Unnamed: 21,notes
+142,30.0,glycocholate metabolism (bacteria),1.0,trihydroxy,PWY-6518,Fulcher CA,3.5.1.24,choloylglycine hydrolase,PTHR35527,,"bsh, cbh","Q9KK62, P54965",PTHR35527,,,,,non_predicted,,,,,
+143,30.0,glycocholate metabolism (bacteria),2.0,trihydroxy,PWY-6518,Fulcher CA,1.1.1.176,12α-hydroxysteroid dehydrogenase,,,,P21215,,,,,,non_predicted,,,,,1 seq
+144,30.0,glycocholate metabolism (bacteria),3.0,trihydroxy,PWY-6518,Fulcher CA,1.1.1.238,12β-hydroxysteroid dehydrogenase,,,,,,,,,,,,,,,
