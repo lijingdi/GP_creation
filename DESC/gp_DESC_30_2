@@ -15,50 +15,14 @@ ID  choloylglycine hydrolase
 DN  choloylglycine hydrolase (3.5.1.24)
 RQ  1
 EV  PTHR35527; sufficient;
-EV  nan; sufficient;
 --
 SN  2
 ID  12α-hydroxysteroid dehydrogenase
 DN  12α-hydroxysteroid dehydrogenase (1.1.1.176)
-RQ  1
-EV  nan; sufficient;
-EV  nan; sufficient;
+RQ  0
 --
 SN  3
 ID  12β-hydroxysteroid dehydrogenase
 DN  12β-hydroxysteroid dehydrogenase (1.1.1.238)
-RQ  1
-EV  nan; sufficient;
-EV  nan; sufficient;
-AC  GenProp_GenProp_jl_30_2
-DE  glycocholate metabolism (bacteria)
-TP  PATHWAY
-AU  Fulcher CA
-TH  0
-DC  glycocholate metabolism (bacteria)
-DR  MetaCyc; PWY-6518;
-CC  This property has been automatically generated from MetaCyc and has not
-CC  been manually verified to check the validity of the InterPro signatures
-CC  used for the evidence. See MetaCyc for additional information and
-CC  references relating to this property.
---
-SN  1
-ID  choloylglycine hydrolase
-DN  choloylglycine hydrolase (3.5.1.24)
-RQ  1
-EV  PTHR35527; sufficient;
-EV  nan; sufficient;
---
-SN  2
-ID  12α-hydroxysteroid dehydrogenase
-DN  12α-hydroxysteroid dehydrogenase (1.1.1.176)
-RQ  1
-EV  nan; sufficient;
-EV  nan; sufficient;
---
-SN  3
-ID  12β-hydroxysteroid dehydrogenase
-DN  12β-hydroxysteroid dehydrogenase (1.1.1.238)
-RQ  1
-EV  nan; sufficient;
-EV  nan; sufficient;
+RQ  0
+//
