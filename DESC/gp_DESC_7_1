@@ -1,75 +1,74 @@
-AC	GenProp_GenProp_jl_7_1
-DE	L-glutamate degradation V (via hydroxyglutarate)
-TP	PATHWAY
-AU	Pellegrini-Toole A, Caspi R
-TH	0
-DC	L-glutamate degradation V (via hydroxyglutarate)
-DR	MetaCyc; P162-PWY;
-CC	This property has been automatically generated from MetaCyc and has not
-CC	been manually verified to check the validity of the InterPro signatures
-CC	used for the evidence. See MetaCyc for additional information and
-CC	references relating to this property.
+AC  GenProp_GenProp_jl_7_1
+DE  L-glutamate degradation V (via hydroxyglutarate)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  L-glutamate degradation V (via hydroxyglutarate)
+DR  MetaCyc; P162-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
 --
-SN	1
-ID	glutamate dehydrogenase (NAD-dependent)
-DN	glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
-RQ	1
-EV	IPR006095, IPR014362, PTHR11606; sufficient;
-EV	nan; sufficient;
+SN  1
+ID  glutamate dehydrogenase (NAD-dependent)
+DN  glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
+RQ  1
+EV  IPR006095, IPR014362, PTHR11606; sufficient;
+EV  nan; sufficient;
 --
-SN	2
-ID	2-oxoglutarate reductase
-DN	2-oxoglutarate reductase (1.1.1.399)
-RQ	1
-EV	nan; sufficient;
-EV	nan; sufficient;
+SN  2
+ID  2-oxoglutarate reductase
+DN  2-oxoglutarate reductase (1.1.1.399)
+RQ  1
+EV  nan; sufficient;
+EV  nan; sufficient;
 --
-SN	3
-ID	glutaconate CoA-transferase
-DN	glutaconate CoA-transferase (2.8.3.12)
-RQ	1
-EV	IPR004165, PTHR43293; sufficient;
-EV	PF01144; sufficient;
+SN  3
+ID  glutaconate CoA-transferase
+DN  glutaconate CoA-transferase (2.8.3.12)
+RQ  1
+EV  IPR004165, PTHR43293; sufficient;
+EV  PF01144; sufficient;
 --
-SN	4
-ID	active (R)-2-hydroxyglutaryl-CoA dehydratase
-DN	active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
-RQ	1
-EV	IPR010327; sufficient;
-EV	PF06050; sufficient;
+SN  4
+ID  active (R)-2-hydroxyglutaryl-CoA dehydratase
+DN  active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
+RQ  1
+EV  IPR010327; sufficient;
+EV  PF06050; sufficient;
 --
-SN	5
-ID	glutaconyl-CoA decarboxylase
-DN	glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
-RQ	1
-EV	PTHR22855, IPR005661, PTHR45266, IPR005899; sufficient;
-EV	, PF03977, , PF04277; sufficient;
+SN  5
+ID  glutaconyl-CoA decarboxylase
+DN  glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
+RQ  1
+EV  PTHR22855, IPR005661, PTHR45266, IPR005899; sufficient;
+EV  , PF03977, , PF04277; sufficient;
 --
-SN	6
-ID	3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	
-DN	3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	 (4.2.1.150)
-RQ	1
-EV	IPR001753, IPR001753, IPR012802, , IPR012799; sufficient;
-EV	PF00378, PF00378, , , ,; sufficient;
+SN  6
+ID  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	
+DN  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	 (4.2.1.150)
+RQ  1
+EV  IPR001753, IPR001753, IPR012802, , IPR012799; sufficient;
+EV  PF00378, PF00378, , , ,; sufficient;
 --
-SN	7
-ID	3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component
-DN	3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component (1.1.1.35)
-RQ	1
-EV	IPR022694/PTHR43145, IPR012802,  IPR022694, IPR012799; sufficient;
-EV	nan; sufficient;
+SN  7
+ID  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component
+DN  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component (1.1.1.35)
+RQ  1
+EV  IPR022694/PTHR43145, IPR012802,  IPR022694, IPR012799; sufficient;
+EV  nan; sufficient;
 --
-SN	8
-ID	acetyl-CoA C-acetyltransferase
-DN	acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
-RQ	1
-EV	IPR002155; sufficient;
-EV	nan; sufficient;
+SN  8
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; sufficient;
+EV  nan; sufficient;
 --
-SN	9
-ID	acetate-CoA ligase (ADP-forming)
-DN	acetate-CoA ligase (ADP-forming) (6.2.1.13)
-RQ	1
-EV	PTHR43334, PF13549; sufficient;
-EV	PF13549; sufficient;
-//
+SN  9
+ID  acetate-CoA ligase (ADP-forming)
+DN  acetate-CoA ligase (ADP-forming) (6.2.1.13)
+RQ  1
+EV  PTHR43334, PF13549; sufficient;
+EV  PF13549; sufficient;
