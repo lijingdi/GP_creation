@@ -14,28 +14,31 @@ SN  1
 ID  glutamate mutase
 DN  glutamate mutase (5.4.99.1)
 RQ  1
-EV  IPR006396; sufficient;
-EV  PF06368; sufficient;
+EV  IPR006396; cd00245; sufficient;
+EV  IPR006396; MF_01923; sufficient;
+EV  IPR006396; TIGR01503; sufficient;
+EV  IPR006396; PIRSF001495; sufficient;
+EV  IPR006396; PF06368; sufficient;
 --
 SN  2
 ID  3-methylaspartase
 DN  3-methylaspartase (4.3.1.2)
 RQ  1
-EV  IPR006395; sufficient;
-EV  NA (PF07476, PF05034 domain hits); sufficient;
+EV  IPR006395; SFLDG00151; sufficient;
+EV  IPR006395; PIRSF017107; sufficient;
+EV  IPR006395; TIGR01502; sufficient;
+EV  IPR022662; PF07476; sufficient;
+EV  IPR022665; PF05034; sufficient;
 --
 SN  3
 ID  citramalate hydrolyase
-
-DN  citramalate hydrolyase
- (4.2.1.34)
-RQ  1
-EV  nan; sufficient;
-EV  nan; sufficient;
+DN  citramalate hydrolyase (4.2.1.34)
+RQ  0
 --
 SN  4
 ID  citramalate lyase
 DN  citramalate lyase (4.1.3.22(4.1.3.25 for β +2.8.3.11 for α))
 RQ  1
-EV  IPR005675; sufficient;
-EV  TIGR00977; sufficient;
+EV  IPR005675; PTHR43538; sufficient;
+EV  IPR005675; TIGR00977; sufficient;
+//

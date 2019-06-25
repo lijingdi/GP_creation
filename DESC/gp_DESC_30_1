@@ -15,18 +15,16 @@ ID  choloylglycine hydrolase
 DN  choloylglycine hydrolase (3.5.1.24)
 RQ  1
 EV  PTHR35527; sufficient;
-EV  nan; sufficient;
 --
 SN  2
 ID  7α-hydroxysteroid dehydrogenase
 DN  7α-hydroxysteroid dehydrogenase (1.1.1.159)
 RQ  1
-EV  IPR002347; sufficient;
-EV  PF13561 (much bigger); sufficient;
+EV  IPR002347; PF00106; sufficient;
 --
 SN  3
 ID  7β-hydroxysteroid dehydrogenase
 DN  7β-hydroxysteroid dehydrogenase (1.1.1.201)
 RQ  1
-EV  IPR002347; sufficient;
-EV  nan; sufficient;
+EV  IPR002347; PF00106; sufficient;
+//

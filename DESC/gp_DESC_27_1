@@ -14,26 +14,23 @@ SN  1
 ID  propanoyl-CoA transferase / lactate CoA-transferase
 DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1)
 RQ  1
-EV  IPR014388; sufficient;
-EV  PF01144 (much bigger); sufficient;
+EV  IPR014388; PIRSF000858; sufficient;
 --
 SN  2
 ID  lactoyl-CoA dehydratase
 DN  lactoyl-CoA dehydratase (4.2.1.54)
 RQ  1
-EV  IPR010327 ; sufficient;
-EV  PF06050 (distant); sufficient;
+EV  IPR010327; PF06050; sufficient;
 --
 SN  3
 ID  acryloyl-CoA reductase
 DN  acryloyl-CoA reductase (1.3.1.95)
 RQ  1
-EV  IPR001308 ; sufficient;
-EV  nan; sufficient;
+EV  IPR001308; PIRSF000089; sufficient;
 --
 SN  4
 ID  propanoyl-CoA transferase / lactate CoA-transferase
 DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1 )
 RQ  1
-EV  IPR014388; sufficient;
-EV  PF01144 (much bigger); sufficient;
+EV  IPR014388; PIRSF000858; sufficient;
+//

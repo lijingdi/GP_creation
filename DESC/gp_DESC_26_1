@@ -14,33 +14,33 @@ SN  1
 ID  methylmalonyl-CoA carboxyltransferase
 DN  methylmalonyl-CoA carboxyltransferase (2.1.3.1)
 RQ  1
-EV  PTHR43842, IPR000438; sufficient;
-EV  nan; sufficient;
+EV  PTHR43842; sufficient;
+EV  IPR000438; TIGR00515; sufficient;
+EV  IPR000438; MF_01395; sufficient;
 --
 SN  2
 ID  malate dehydrogenase
 DN  malate dehydrogenase (1.1.1.37)
 RQ  1
-EV  IPR001557, IPR010097, IPR023958; sufficient;
-EV  nan; sufficient;
+EV  IPR001557; PIRSF000102; sufficient;
+EV  IPR010097; TIGR01772; sufficient; 
+EV  IPR023958; MF_01516; sufficient;
 --
 SN  3
 ID  fumarase
 DN  fumarase (4.2.1.2)
 RQ  1
-EV  IPR011167; sufficient;
-EV  nan; sufficient;
+EV  IPR011167; PIRSF001394; sufficient;
 --
 SN  4
 ID  fumarate reductase
 DN  fumarate reductase (1.3.5.4)
 RQ  1
-EV  IPR005884; sufficient;
-EV  nan; sufficient;
+EV  IPR005884; TIGR01176; sufficient;
 --
 SN  5
 ID  succinate CoA transferase
 DN  succinate CoA transferase (2.8.3.-)
 RQ  1
-EV  IPR017821; sufficient;
-EV  TIGR03458; sufficient;
+EV  IPR017821; TIGR03458; sufficient;
+//
