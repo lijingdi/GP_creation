@@ -15,7 +15,7 @@ https://genome-properties.readthedocs.io/en/latest/flatfile.html#desc-file
 
 
 Step 2: download the proteomes of the representative species of each pathway, and run interproscan on them.
-Running Command: interproscan.sh -i input_file -d out_dir -f tsv -t p -pa -iprlookup
+Running Command: interproscan.sh -i input_file -d out_dir -f tsv -t p -pa -iprlookup (try with 50000M mem)
 proteomes list: gp_test_proteome.csv
 
 
