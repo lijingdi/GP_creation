@@ -1,0 +1,1155 @@
+AC  GenProp_GenProp_jl_10_1
+DE  crotonate fermentation (to acetate and cyclohexane carboxylate)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  crotonate fermentation (to acetate and cyclohexane carboxylate)
+DR  MetaCyc; PWY-7401;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  CoA-transferases (2.8.3.1-3; 2.8.3.5-6; 2.8.3.8-25)
+DN  CoA-transferases (2.8.3.1-3; 2.8.3.5-6; 2.8.3.8-25) (2.8.3.- )
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+EV  PTHR43609; sufficient;
+EV  PTHR21432; sufficient;
+--
+SN  2
+ID  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	
+DN  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	 (4.2.1.150)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  3
+ID  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component
+DN  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component (1.1.1.35)
+RQ  1
+EV  IPR022694; PIRSF000105; sufficient;
+EV  PTHR43145; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  4
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  5
+ID  acetate-CoA ligase (ADP-forming)
+DN  acetate-CoA ligase (ADP-forming) (6.2.1.13)
+RQ  1
+EV  PTHR43334; sufficient;
+EV  PF13549; sufficient;
+//
+AC  GenProp_GenProp_jl_12_1
+DE  4-aminobutanoate degradation V
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  4-aminobutanoate degradation V
+DR  MetaCyc; PWY-5022;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-aminobutyrate aminotransferase, 4-aminobutyrate aminotransferase PuuE
+DN  4-aminobutyrate aminotransferase, 4-aminobutyrate aminotransferase PuuE (2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+--
+SN  2
+ID  4-hydroxybutyrate dehydrogenase
+DN  4-hydroxybutyrate dehydrogenase (1.1.1.61)
+RQ  1
+EV  IPR039697; PTHR11496; sufficient;
+--
+SN  3
+ID  4-hydroxybutyrate CoA-transferase
+DN  4-hydroxybutyrate CoA-transferase (2.8.3.-)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+EV  PTHR21432; sufficient;
+--
+SN  4
+ID  4-hydroxybutyryl-CoA dehydratase	
+DN  4-hydroxybutyryl-CoA dehydratase	 (4.2.1.120)
+RQ  1
+EV  IPR004925; PTHR36117; sufficient;
+EV  IPR004925; PIRSF000331; sufficient;
+--
+SN  5
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PIRSF016578; sufficient;
+--
+SN  6
+ID  propinoate CoA-transferase / acetate CoA-transferase	
+DN  propinoate CoA-transferase / acetate CoA-transferase	 (2.8.3.1/2.8.3.8)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+//
+AC  GenProp_GenProp_jl_14_1
+DE  L-glutamate degradation VI (to pyruvate)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  L-glutamate degradation VI (to pyruvate)
+DR  MetaCyc; PWY-5087;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate mutase
+DN  glutamate mutase (5.4.99.1)
+RQ  1
+EV  IPR006396; cd00245; sufficient;
+EV  IPR006396; MF_01923; sufficient;
+EV  IPR006396; TIGR01503; sufficient;
+EV  IPR006396; PIRSF001495; sufficient;
+EV  IPR006396; PF06368; sufficient;
+--
+SN  2
+ID  3-methylaspartase
+DN  3-methylaspartase (4.3.1.2)
+RQ  1
+EV  IPR006395; SFLDG00151; sufficient;
+EV  IPR006395; PIRSF017107; sufficient;
+EV  IPR006395; TIGR01502; sufficient;
+EV  IPR022662; PF07476; sufficient;
+EV  IPR022665; PF05034; sufficient;
+--
+SN  3
+ID  citramalate hydrolyase
+DN  citramalate hydrolyase (4.2.1.34)
+RQ  0
+--
+SN  4
+ID  citramalate lyase
+DN  citramalate lyase (4.1.3.22(4.1.3.25 for β +2.8.3.11 for α))
+RQ  1
+EV  IPR005675; PTHR43538; sufficient;
+EV  IPR005675; TIGR00977; sufficient;
+//
+AC  GenProp_GenProp_jl_15_1
+DE  pyruvate fermentation to butanoate
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  pyruvate fermentation to butanoate
+DR  MetaCyc; CENTFERM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  pyruvate:ferredoxin oxidoreductase
+DN  pyruvate:ferredoxin oxidoreductase (1.2.7.1)
+RQ  1
+EV  IPR011895; PIRSF000159; sufficient;
+EV  IPR011895; TIGR02176; sufficient;
+--
+SN  2
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  3
+ID  3-hydroxybutyryl-CoA dehydrogenase
+DN  3-hydroxybutyryl-CoA dehydrogenase (1.1.1.35)
+RQ  1
+EV  IPR022694; PIRSF000105; sufficient;
+EV  PTHR43145; sufficient;
+--
+SN  4
+ID  3-hydroxybutyryl-CoA dehydratase
+DN  3-hydroxybutyryl-CoA dehydratase (4.2.1.150)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+--
+SN  5
+ID  butyryl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PTHR43884; sufficient;
+--
+SN  6
+ID  phosphotransbutyrylase
+DN  phosphotransbutyrylase (2.3.1.19)
+RQ  1
+EV  IPR012147; PIRSF000428; sufficient;
+EV  IPR014079; TIGR02706; sufficient;
+EV  IPR002505; PF01515; sufficient;
+--
+SN  7
+ID  butyrate kinase
+DN  butyrate kinase (2.7.2.7)
+RQ  1
+EV  IPR011245; TIGR02707; sufficient;
+EV  IPR011245; PIRSF036458; sufficient;
+EV  IPR011245; MF_00542; sufficient;
+//
+AC  GenProp_GenProp_jl_16_1
+DE  succinate fermentation to butanoate
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  succinate fermentation to butanoate
+DR  MetaCyc; PWY-5677;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  succinyl-CoA:CoA transferase	
+DN  succinyl-CoA:CoA transferase	 (2.8.3.18)
+RQ  1
+EV  IPR017821; TIGR03458; sufficient;
+--
+SN  2
+ID  succinate semialdehyde dehydrogenase	
+DN  succinate semialdehyde dehydrogenase	 (1.2.1.76)
+RQ  1
+EV  PTHR11699; sufficient;
+EV  IPR015590; PF00171; sufficient;
+--
+SN  3
+ID  4-hydroxybutyrate dehydrogenase
+DN  4-hydroxybutyrate dehydrogenase (1.1.1.61)
+RQ  1
+EV  IPR039697; PTHR11496; sufficient;
+--
+SN  4
+ID  4-hydroxybutyrate coenzyme A transferase	
+DN  4-hydroxybutyrate coenzyme A transferase	 (2.8.3.- )
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+EV  PTHR21432; sufficient;
+--
+SN  5
+ID  4-hydroxybutyryl-CoA dehydratase
+DN  4-hydroxybutyryl-CoA dehydratase (4.2.1.120)
+RQ  0
+--
+SN  6
+ID  butyryl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PTHR43884; sufficient;
+--
+SN  7
+ID  acetate CoA-transferase
+DN  acetate CoA-transferase (2.8.3.1/2.8.3.8)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+//
+AC  GenProp_GenProp_jl_17_1
+DE  L-glutamate degradation IX (via 4-aminobutanoate)
+TP  PATHWAY
+AU  Hong E
+TH  0
+DC  L-glutamate degradation IX (via 4-aminobutanoate)
+DR  MetaCyc; PWY0-1305;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate decarboxylase A / glutamate decarboxylase B 
+DN  glutamate decarboxylase A / glutamate decarboxylase B  (4.1.1.15)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  2
+ID  4-aminobutyrate aminotransferase, 4-aminobutyrate aminotransferase PuuE
+DN  4-aminobutyrate aminotransferase, 4-aminobutyrate aminotransferase PuuE (2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+--
+SN  3
+ID  4-hydroxybutyrate dehydrogenase
+DN  4-hydroxybutyrate dehydrogenase (1.1.1.61)
+RQ  1
+EV  IPR039697; PTHR11496; sufficient;
+--
+SN  4
+ID  CoA-transferases (2.8.3.1-3; 2.8.3.5-6; 2.8.3.8-25)
+DN  CoA-transferases (2.8.3.1-3; 2.8.3.5-6; 2.8.3.8-25) (2.8.3.- )
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+EV  PTHR43609; sufficient;
+EV  PTHR21432; sufficient;
+--
+SN  5
+ID  4-hydroxybutyryl-CoA dehydratase	
+DN  4-hydroxybutyryl-CoA dehydratase	 (4.2.1.120)
+RQ  1
+EV  IPR004925; PTHR36117; sufficient;
+EV  IPR024674; PF11794; sufficient;
+EV  IPR024719; PF03241; sufficient;
+--
+SN  6
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PTHR43884; sufficient;
+--
+SN  7
+ID  propinoate CoA-transferase / acetate CoA-transferase	
+DN  propinoate CoA-transferase / acetate CoA-transferase	 (2.8.3.1/2.8.3.8)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+//
+AC  GenProp_GenProp_jl_17_2
+DE  L-glutamate degradation IX (via 4-aminobutanoate)
+TP  PATHWAY
+AU  Hong E
+TH  0
+DC  L-glutamate degradation IX (via 4-aminobutanoate)
+DR  MetaCyc; PWY0-1305;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate decarboxylase A / glutamate decarboxylase B 
+DN  glutamate decarboxylase A / glutamate decarboxylase B  (4.1.1.15)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  2
+ID  4-aminobutyrate aminotransferase /4-aminobutyrate transaminase	
+DN  4-aminobutyrate aminotransferase /4-aminobutyrate transaminase	 (2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+--
+SN  3
+ID  NAD(P)-dependent succinate-semialdehyde dehydrogenase  / NAD(P)+-dependent succinate semialdehyde dehydrogenase
+DN  NAD(P)-dependent succinate-semialdehyde dehydrogenase  / NAD(P)+-dependent succinate semialdehyde dehydrogenase (1.2.1.16)
+RQ  1
+EV  PTHR43353; sufficient;
+//
+AC  GenProp_GenProp_jl_26_1
+DE  pyruvate fermentation to propanoate I
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  pyruvate fermentation to propanoate I
+DR  MetaCyc; P108-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  methylmalonyl-CoA carboxyltransferase
+DN  methylmalonyl-CoA carboxyltransferase (2.1.3.1)
+RQ  1
+EV  PTHR43842; sufficient;
+EV  IPR000438; TIGR00515; sufficient;
+EV  IPR000438; MF_01395; sufficient;
+--
+SN  2
+ID  malate dehydrogenase
+DN  malate dehydrogenase (1.1.1.37)
+RQ  1
+EV  IPR001557; PIRSF000102; sufficient;
+EV  IPR010097; TIGR01772; sufficient; 
+EV  IPR023958; MF_01516; sufficient;
+--
+SN  3
+ID  fumarase
+DN  fumarase (4.2.1.2)
+RQ  1
+EV  IPR011167; PIRSF001394; sufficient;
+--
+SN  4
+ID  fumarate reductase
+DN  fumarate reductase (1.3.5.4)
+RQ  1
+EV  IPR005884; TIGR01176; sufficient;
+--
+SN  5
+ID  succinate CoA transferase
+DN  succinate CoA transferase (2.8.3.-)
+RQ  1
+EV  IPR017821; TIGR03458; sufficient;
+//
+AC  GenProp_GenProp_jl_27_1
+DE  pyruvate fermentation to propanoate II (acrylate pathway)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  pyruvate fermentation to propanoate II (acrylate pathway)
+DR  MetaCyc; PWY-5494;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  propanoyl-CoA transferase / lactate CoA-transferase
+DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1)
+RQ  1
+EV  IPR014388; PIRSF000858; sufficient;
+--
+SN  2
+ID  lactoyl-CoA dehydratase
+DN  lactoyl-CoA dehydratase (4.2.1.54)
+RQ  1
+EV  IPR010327; PF06050; sufficient;
+--
+SN  3
+ID  acryloyl-CoA reductase
+DN  acryloyl-CoA reductase (1.3.1.95)
+RQ  1
+EV  IPR001308; PIRSF000089; sufficient;
+--
+SN  4
+ID  propanoyl-CoA transferase / lactate CoA-transferase
+DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1 )
+RQ  1
+EV  IPR014388; PIRSF000858; sufficient;
+//
+AC  GenProp_GenProp_jl_28_1
+DE  L-alanine fermentation to propanoate and acetate
+TP  PATHWAY
+AU  Fulcher CA, Caspi R
+TH  0
+DC  L-alanine fermentation to propanoate and acetate
+DR  MetaCyc; PROPFERM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  alanine aminotransferase
+DN  alanine aminotransferase (2.6.1.2)
+RQ  1
+EV  PTHR43488; sufficient;
+--
+SN  2
+ID  D-lactate dehydrogenase
+DN  D-lactate dehydrogenase (1.1.1.28)
+RQ  1
+EV  PTHR43026; sufficient;
+--
+SN  3
+ID  propanoyl-CoA transferase / lactate CoA-transferase
+DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1)
+RQ  1
+EV  IPR014388; PIRSF000858; sufficient;
+--
+SN  4
+ID  lactoyl-CoA dehydratase
+DN  lactoyl-CoA dehydratase (4.2.1.54)
+RQ  1
+EV  IPR010327; PF06050; sufficient;
+--
+SN  5
+ID  acryloyl-CoA reductase
+DN  acryloyl-CoA reductase (1.3.1.95)
+RQ  1
+EV  IPR001308; PIRSF000089; sufficient;
+--
+SN  6
+ID  propanoyl-CoA transferase / lactate CoA-transferase
+DN  propanoyl-CoA transferase / lactate CoA-transferase (2.8.3.1 )
+RQ  1
+EV  IPR014388; PIRSF000858; sufficient;
+//
+AC  GenProp_GenProp_jl_28_2
+DE  L-alanine fermentation to propanoate and acetate
+TP  PATHWAY
+AU  Fulcher CA, Caspi R
+TH  0
+DC  L-alanine fermentation to propanoate and acetate
+DR  MetaCyc; PROPFERM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  alanine aminotransferase
+DN  alanine aminotransferase (2.6.1.2)
+RQ  1
+EV  PTHR43488; sufficient;
+--
+SN  2
+ID  pyruvate-ferredoxin oxidoreductase
+DN  pyruvate-ferredoxin oxidoreductase (1.2.7.1)
+RQ  1
+EV  IPR011895; TIGR02176; sufficient;
+--
+SN  3
+ID  phosphotransacetylase
+DN  phosphotransacetylase (2.3.1.8)
+RQ  1
+EV  PTHR43356; sufficient;
+EV  IPR012147; PIRSF000428; sufficient;
+--
+SN  4
+ID  acetate kinase
+DN  acetate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PTHR21060; 
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+//
+AC  GenProp_GenProp_jl_29_1
+DE  bile acids degradation
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  bile acids degradation
+DR  MetaCyc; PWY-7754;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glycodeoxychenocholate hydrolase / chenodeoxycholoyltaurine hydrolase
+DN  glycodeoxychenocholate hydrolase / chenodeoxycholoyltaurine hydrolase (3.5.1.24/3.5.1.74)
+RQ  1
+EV  PTHR35527; sufficient;
+--
+SN  2
+ID  chenodeoxycholate-CoA ligase
+DN  chenodeoxycholate-CoA ligase (6.2.1.7)
+RQ  0
+--
+SN  3
+ID  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase
+DN  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase (1.1.1.395)
+RQ  1
+EV  IPR002347; PR00080; sufficient;
+EV  IPR002347; PF00106; sufficient;
+--
+SN  4
+ID  7α-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase
+DN  7α-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase (1.3.1.115)
+RQ  0
+--
+SN  5
+ID  bile acid 7α-dehydratase
+DN  bile acid 7α-dehydratase (4.2.1.106)
+RQ  0
+--
+SN  6
+ID  3-dehydro-bile acid Δ4,6-reductase
+DN  3-dehydro-bile acid Δ4,6-reductase (1.3.1.114)
+RQ  1
+EV  IPR004792; PTHR42887; sufficient;
+EV  IPR004792; TIGR00275; sufficient;
+EV  PF03486; sufficient;
+--
+SN  7
+ID  3-dehydro-bile acid Δ4,6-reductase
+DN  3-dehydro-bile acid Δ4,6-reductase (1.3.1.114)
+RQ  1
+EV  IPR004792; PTHR42887; sufficient;
+EV  IPR004792; TIGR00275; sufficient;
+EV  PF03486; sufficient;
+--
+SN  8
+ID  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase
+DN  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase (1.1.1.395)
+RQ  1
+EV  IPR002347; PR00080; sufficient;
+EV  IPR002347; PF00106; sufficient;
+--
+SN  9
+ID  bile acid coenzyme A transferase
+DN  bile acid coenzyme A transferase (2.8.3.25)
+RQ  1
+EV  IPR003673; PF02515; sufficient;
+//
+AC  GenProp_GenProp_jl_29_2
+DE  bile acids degradation
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  bile acids degradation
+DR  MetaCyc; PWY-7754;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase / In linear amides (3.5.1.1-131)
+DN  choloylglycine hydrolase / In linear amides (3.5.1.1-131) (3.5.1.24/3.5.1.- )
+RQ  1
+EV  PTHR35527; sufficient;
+--
+SN  2
+ID  bile acid-coenzyme A ligase
+DN  bile acid-coenzyme A ligase (6.2.1.7)
+RQ  0
+--
+SN  3
+ID  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase
+DN  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase (1.1.1.395)
+RQ  1
+EV  IPR002347; PR00080; sufficient;
+EV  IPR002347; PF00106; sufficient;
+--
+SN  4
+ID  7α-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase
+DN  7α-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase (1.3.1.115)
+RQ  0
+--
+SN  5
+ID  bile acid 7α-dehydratase
+DN  bile acid 7α-dehydratase (4.2.1.106)
+RQ  0
+--
+SN  6
+ID  3-dehydro-bile acid Δ4,6-reductase
+DN  3-dehydro-bile acid Δ4,6-reductase (1.3.1.114)
+RQ  1
+EV  IPR004792; PTHR42887; sufficient;
+EV  IPR004792; TIGR00275; sufficient;
+EV  PF03486; sufficient;
+--
+SN  7
+ID  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase
+DN  3α-hydroxysteroyl-CoA 3-dehydrogenase 2, 3α-hydroxysteroyl-CoA 3-dehydrogenase (1.1.1.395)
+RQ  1
+EV  IPR002347; PR00080; sufficient;
+EV  IPR002347; PF00106; sufficient;
+--
+SN  8
+ID  bile acid coenzyme A transferase
+DN  bile acid coenzyme A transferase (2.8.3.25)
+RQ  1
+EV  IPR003673; PF02515; sufficient;
+//
+AC  GenProp_GenProp_jl_30_1
+DE  glycocholate metabolism (bacteria)
+TP  PATHWAY
+AU  Fulcher CA
+TH  0
+DC  glycocholate metabolism (bacteria)
+DR  MetaCyc; PWY-6518;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase
+DN  choloylglycine hydrolase (3.5.1.24)
+RQ  1
+EV  PTHR35527; sufficient;
+--
+SN  2
+ID  7α-hydroxysteroid dehydrogenase
+DN  7α-hydroxysteroid dehydrogenase (1.1.1.159)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  7β-hydroxysteroid dehydrogenase
+DN  7β-hydroxysteroid dehydrogenase (1.1.1.201)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+//
+AC  GenProp_GenProp_jl_30_2
+DE  glycocholate metabolism (bacteria)
+TP  PATHWAY
+AU  Fulcher CA
+TH  0
+DC  glycocholate metabolism (bacteria)
+DR  MetaCyc; PWY-6518;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase
+DN  choloylglycine hydrolase (3.5.1.24)
+RQ  1
+EV  PTHR35527; sufficient;
+--
+SN  2
+ID  12α-hydroxysteroid dehydrogenase
+DN  12α-hydroxysteroid dehydrogenase (1.1.1.176)
+RQ  0
+--
+SN  3
+ID  12β-hydroxysteroid dehydrogenase
+DN  12β-hydroxysteroid dehydrogenase (1.1.1.238)
+RQ  0
+//
+AC  GenProp_GenProp_jl_30_3
+DE  glycocholate metabolism (bacteria)
+TP  PATHWAY
+AU  Fulcher CA
+TH  0
+DC  glycocholate metabolism (bacteria)
+DR  MetaCyc; PWY-6518;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase
+DN  choloylglycine hydrolase (3.5.1.24)
+RQ  1
+EV  PTHR35527; sufficient;
+--
+SN  2
+ID  3α-hydroxysteroid dehydrogenase
+DN  3α-hydroxysteroid dehydrogenase (1.1.1.52)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  NAD-dependent bile acid 3β-dehydrogenase
+DN  NAD-dependent bile acid 3β-dehydrogenase (1.1.1.391)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+//
+AC  GenProp_GenProp_jl_6_1
+DE  Bifidobacterium shunt
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  Bifidobacterium shunt
+DR  MetaCyc; P124-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Hexokinase / glucokinase
+DN  Hexokinase / glucokinase (2.7.1.1/2.7.1.2)
+RQ  1
+EV  IPR001312; PS51748; sufficient;
+EV  IPR001312; PTHR19443; sufficient;
+EV  IPR000600; PTHR18964; sufficient;
+EV  IPR000600; PF00480; sufficient;
+EV  IPR004654; TIGR00744; sufficient;
+--
+SN  2
+ID  glucose-6-phosphate isomerase
+DN  glucose-6-phosphate isomerase (5.3.1.9)
+RQ  1
+EV  IPR001672; PTHR11469; sufficient;
+EV  IPR001672; PF00342; sufficient;
+--
+SN  3
+ID  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase
+DN  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase (4.1.2.22)
+RQ  1
+EV  IPR005593; PTHR31273; sufficient;
+EV  IPR005593; PF03894; sufficient;
+EV  IPR023962; MF_01403; sufficient;
+--
+SN  4
+ID  acetate kinase / propionate kinase
+DN  acetate kinase / propionate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PTHR21060; 
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+//
+AC  GenProp_GenProp_jl_6_2
+DE  Bifidobacterium shunt
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  Bifidobacterium shunt
+DR  MetaCyc; P124-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Hexokinase / glucokinase
+DN  Hexokinase / glucokinase (2.7.1.1/2.7.1.2)
+RQ  1
+EV  IPR001312; PS51748; sufficient;
+EV  IPR001312; PTHR19443; sufficient;
+EV  IPR000600; PTHR18964; sufficient;
+EV  IPR000600; PF00480; sufficient;
+EV  IPR004654; TIGR00744; sufficient;
+--
+SN  2
+ID  glucose-6-phosphate isomerase
+DN  glucose-6-phosphate isomerase (5.3.1.9)
+RQ  1
+EV  IPR001672; PTHR11469; sufficient;
+EV  IPR001672; PF00342; sufficient;
+--
+SN  3
+ID  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase
+DN  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase (4.1.2.22)
+RQ  1
+EV  IPR005593; PTHR31273; sufficient;
+EV  IPR005593; PF03894; sufficient;
+EV  IPR023962; MF_01403; sufficient;
+--
+SN  4
+ID  Transaldolase B
+DN  Transaldolase B (2.2.1.2)
+RQ  1
+EV  IPR001585; PTHR10683; sufficient;
+EV  IPR001585; PF00923; sufficient;
+EV  IPR004730; TIGR00874; sufficient;
+EV  IPR004730; cd00957; sufficient;
+--
+SN  5
+ID  transketolase
+DN  transketolase (2.2.1.1)
+RQ  1
+EV  IPR033247; PTHR43522; sufficient;
+EV  IPR005478; TIGR00232; sufficient;
+--
+SN  6
+ID  ribose-5-phosphate isomerase A, allose-6-phosphate isomerase/ribose-5-phosphate isomerase B
+DN  ribose-5-phosphate isomerase A, allose-6-phosphate isomerase/ribose-5-phosphate isomerase B (5.3.1.6)
+RQ  1
+EV  IPR004788; cd01398; sufficient;
+EV  IPR004788; PF06026; sufficient;
+EV  IPR004788; TIGR00021; sufficient;
+EV  IPR020672; MF_00170; sufficient;
+EV  IPR003500; PTHR30345; sufficient;
+EV  IPR003500; TIGR00689; sufficient;
+EV  IPR003500; PF02502; sufficient;
+EV  IPR004785; TIGR01120; sufficient;
+--
+SN  7
+ID  ribulose phosphate 3-epimerase
+DN  ribulose phosphate 3-epimerase (5.1.3.1)
+RQ  1
+EV  IPR000056; PF00834; sufficient;
+EV  IPR000056; PS01085; sufficient;
+EV  IPR000056; PS01086; sufficient;
+EV  IPR000056; TIGR01163; sufficient;
+--
+SN  8
+ID  phosphoketolase, D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase
+DN  phosphoketolase, D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase (4.1.2.9)
+RQ  1
+EV  IPR005593; PTHR31273; sufficient;
+EV  IPR005593; PIRSF017245; sufficient;
+EV  IPR005593; PF03894; sufficient;
+--
+SN  9
+ID  acetate kinase / propionate kinase
+DN  acetate kinase / propionate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PF00871; sufficient;
+EV  IPR000890; PR00471; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+//
+AC  GenProp_GenProp_jl_7_1
+DE  L-glutamate degradation V (via hydroxyglutarate)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  L-glutamate degradation V (via hydroxyglutarate)
+DR  MetaCyc; P162-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate dehydrogenase (NAD-dependent)
+DN  glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
+RQ  1
+EV  IPR006095; PR00082; sufficient;
+EV  IPR014362; PIRSF000185; sufficient;
+EV  PTHR11606; sufficient;
+--
+SN  2
+ID  2-oxoglutarate reductase
+DN  2-oxoglutarate reductase (1.1.1.399)
+RQ  0
+--
+SN  3
+ID  glutaconate CoA-transferase
+DN  glutaconate CoA-transferase (2.8.3.12)
+RQ  1
+EV  IPR004165; PTHR13707; sufficient;
+EV  IPR004165; PF01144; sufficient;
+EV  PTHR43293; sufficient;
+--
+SN  4
+ID  active (R)-2-hydroxyglutaryl-CoA dehydratase
+DN  active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
+RQ  1
+EV  IPR010327; PF06050; sufficient;
+--
+SN  5
+ID  glutaconyl-CoA decarboxylase
+DN  glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
+RQ  1
+EV  PTHR22855; sufficient;
+EV  IPR005661; TIGR01109; sufficient;
+EV  IPR005661; PTHR35806; sufficient;
+EV  IPR005661; PF03977; sufficient;
+EV  PTHR45266; sufficient;
+EV  IPR005899; PF04277; sufficient;
+EV  IPR005899; TIGR01195; sufficient;
+--
+SN  6
+ID  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	
+DN  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	 (4.2.1.150)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  7
+ID  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component
+DN  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component (1.1.1.35)
+RQ  1
+EV  IPR022694; PIRSF000105; sufficient;
+EV  PTHR43145; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  8
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  9
+ID  acetate-CoA ligase (ADP-forming)
+DN  acetate-CoA ligase (ADP-forming) (6.2.1.13)
+RQ  1
+EV  PTHR43334; sufficient;
+EV  PF13549; sufficient;
+//
+AC  GenProp_GenProp_jl_7_2
+DE  L-glutamate degradation V (via hydroxyglutarate)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  L-glutamate degradation V (via hydroxyglutarate)
+DR  MetaCyc; P162-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate dehydrogenase (NAD-dependent)
+DN  glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
+RQ  1
+EV  IPR006095; PR00082; sufficient;
+EV  IPR014362; PIRSF000185; sufficient;
+EV  PTHR11606; sufficient;
+--
+SN  2
+ID  2-oxoglutarate reductase
+DN  2-oxoglutarate reductase (1.1.1.399)
+RQ  0
+--
+SN  3
+ID  glutaconate CoA-transferase
+DN  glutaconate CoA-transferase (2.8.3.12)
+RQ  1
+EV  IPR004165; PTHR13707; sufficient;
+EV  IPR004165; PF01144; sufficient;
+EV  PTHR43293; sufficient;
+--
+SN  4
+ID  active (R)-2-hydroxyglutaryl-CoA dehydratase
+DN  active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
+EV  IPR010327; PF06050; sufficient;
+--
+SN  5
+ID  glutaconyl-CoA decarboxylase
+DN  glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
+RQ  1
+EV  PTHR22855; sufficient;
+EV  IPR005661; TIGR01109; sufficient;
+EV  IPR005661; PTHR35806; sufficient;
+EV  IPR005661; PF03977; sufficient;
+EV  PTHR45266; sufficient;
+EV  IPR005899; PF04277; sufficient;
+EV  IPR005899; TIGR01195; sufficient;
+--
+SN  6
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PIRSF016578; sufficient;
+--
+SN  7
+ID  propinoate CoA-transferase / acetate CoA-transferase	
+DN  propinoate CoA-transferase / acetate CoA-transferase	 (2.8.3.1/2.8.3.8)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+//
+AC  GenProp_GenProp_jl_8_1
+DE  L-lysine fermentation to acetate and butanoate
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  L-lysine fermentation to acetate and butanoate
+DR  MetaCyc; P163-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-lysine 2,3-aminomutase	
+DN  L-lysine 2,3-aminomutase	 (5.4.3.2)
+RQ  1
+EV  IPR003739; PTHR30538; sufficient;
+EV  IPR003739; TIGR00238; sufficient;
+--
+SN  2
+ID  lysine-5,6-aminomutase
+DN  lysine-5,6-aminomutase (5.4.3.3)
+RQ  1
+EV  IPR015130; PF09043; sufficient;
+EV  IPR028991; PF16554; sufficient;
+--
+SN  3
+ID  L-erythro-3,5-diaminohexanoate dehydrogenase
+DN  L-erythro-3,5-diaminohexanoate dehydrogenase (1.4.1.11)
+RQ  0
+--
+SN  4
+ID  3-keto-5-aminohexanoate cleavage enzyme
+DN  3-keto-5-aminohexanoate cleavage enzyme (2.3.1.247)
+RQ  1
+EV  IPR008567; PTHR37418; sufficient;
+EV  IPR008567; PF05853; sufficient;
+--
+SN  5
+ID  butyryl-CoA:acetoacetate CoA-transferase
+DN  butyryl-CoA:acetoacetate CoA-transferase (2.8.3.9)
+RQ  1
+EV  IPR004165; SM00882; sufficient;
+EV  IPR004165; PF01144; sufficient;
+--
+SN  6
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  7
+ID  phosphotransacetylase
+DN  phosphotransacetylase (2.3.1.8)
+RQ  1
+EV  PTHR43356; 
+EV  IPR012147; PIRSF000428; sufficient;
+EV  IPR002505; PF01515; sufficient;
+--
+SN  8
+ID  acetate kinase
+DN  acetate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PR00471; sufficient;
+EV  IPR000890; PTHR21060; sufficient;
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; PIRSF000722; sufficient;
+//
+AC  GenProp_GenProp_jl_8_2
+DE  L-lysine fermentation to acetate and butanoate
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  0
+DC  L-lysine fermentation to acetate and butanoate
+DR  MetaCyc; P163-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-lysine 2,3-aminomutase	
+DN  L-lysine 2,3-aminomutase	 (5.4.3.2)
+RQ  1
+EV  IPR003739; PTHR30538; sufficient;
+EV  IPR003739; TIGR00238; sufficient;
+--
+SN  2
+ID  lysine-5,6-aminomutase
+DN  lysine-5,6-aminomutase (5.4.3.3)
+RQ  1
+EV  IPR015130; PF09043; sufficient;
+EV  IPR028991; PF16554; sufficient;
+--
+SN  3
+ID  L-erythro-3,5-diaminohexanoate dehydrogenase
+DN  L-erythro-3,5-diaminohexanoate dehydrogenase (1.4.1.11)
+RQ  0
+--
+SN  4
+ID  3-keto-5-aminohexanoate cleavage enzyme
+DN  3-keto-5-aminohexanoate cleavage enzyme (2.3.1.247)
+RQ  1
+EV  IPR008567; PTHR37418; sufficient;
+EV  IPR008567; PF05853; sufficient;
+--
+SN  5
+ID  L-3-aminobutyryl coenzyme A deaminase
+DN  L-3-aminobutyryl coenzyme A deaminase (4.3.1.14)
+RQ  1
+EV  IPR006683; PF03061; sufficient; 
+--
+SN  6
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  PIRSF016578; sufficient;
+--
+SN  7
+ID  butyryl-CoA:acetoacetate CoA-transferase
+DN  butyryl-CoA:acetoacetate CoA-transferase (2.8.3.9)
+RQ  1
+EV  IPR004165; SM00882; sufficient;
+EV  IPR004165; PF01144; sufficient;
+//
