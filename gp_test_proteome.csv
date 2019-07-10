@@ -5,7 +5,7 @@ Pathway_NO,Pathway,Proteome_id,Organism_id,Organism,ref,
 7,L-glutamate degradation V,UP000001902,591001,Acidaminococcus fermentans (strain ATCC 25085 / DSM 20731 / VR4),yes,
 7,L-glutamate degradation V,UP000192368,573058,Peptoniphilus asaccharolyticus DSM 20463,no,
 7,L-glutamate degradation V,UP000002521,190304,Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / CIP 101130 / JCM 8532 / LMG 13131),yes,run once
-7,L-glutamate degradation V,UP000005392,997347,Fusobacterium nucleatum subsp. animalis ATCC 51191,yes,run once
+7,L-glutamate degradation V,UP000005392,997347,Fusobacterium nucleatum subsp. animalis ATCC 51191,yes,
 7,L-glutamate degradation V,UP000002970,742740,[Clostridium] symbiosum WAL-14163,yes,
 8,L-lysine fermentation to acetate and butanoate,UP000007041,499177,Acetoanaerobium sticklandii (strain ATCC 12662 / DSM 519 / JCM 1433 / NCIMB 10654) (Clostridium sticklandii),yes,
 8,L-lysine fermentation to acetate and butanoate,UP000000588,242619,Porphyromonas gingivalis (strain ATCC BAA-308 / W83),yes,
