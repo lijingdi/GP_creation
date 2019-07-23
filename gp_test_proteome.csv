@@ -63,3 +63,4 @@ NA, ,UP000000429, ,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobact
 IBD, ,UP000000799, ,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),yes,
 Phage_IBD,,UP000006649, ,Clostridium phage phiCD119 (strain Clostridium difficile/United States/Govind/2006) (Bacteriophage phiCD119),yes,
 yeast, ,UP000000559, ,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast),yes,
+probiotics, ,UP000007059,657322,Faecalibacterium prausnitzii,yes,
